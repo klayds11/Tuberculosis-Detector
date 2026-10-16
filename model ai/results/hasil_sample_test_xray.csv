@@ -1,0 +1,2 @@
+﻿filename,diagnosis,confidence,confidence_percent,normal_prob,tb_prob,recommendation,color,risk_level,timestamp
+sample_test_xray.jpg,TUBERCULOSIS,0.9925978183746338,99.26%,0.007402181625366211,0.9925978183746338,TERDETEKSI kemungkinan Tuberculosis. Segera konsultasi ke dokter spesialis paru untuk pemeriksaan lebih lanjut.,🔴,TINGGI,2026-10-16 22:11:54

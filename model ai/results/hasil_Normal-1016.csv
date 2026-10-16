@@ -1,0 +1,2 @@
+﻿filename,diagnosis,confidence,confidence_percent,normal_prob,tb_prob,recommendation,color,risk_level,timestamp
+Normal-1016.png,TUBERCULOSIS,0.9627973437309265,96.28%,0.037202656269073486,0.9627973437309265,TERDETEKSI kemungkinan Tuberculosis. Segera konsultasi ke dokter spesialis paru untuk pemeriksaan lebih lanjut.,🔴,TINGGI,2026-10-16 21:16:38

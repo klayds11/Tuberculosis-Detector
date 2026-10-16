@@ -1,0 +1,18 @@
+{
+  "num_models": 5,
+  "ensemble_methods": [
+    "average",
+    "vote"
+  ],
+  "test_accuracy": {
+    "average": 0.0,
+    "vote": 0.0
+  },
+  "model_paths": [
+    "kfold_models\\fold_1_best_model.h5",
+    "kfold_models\\fold_2_best_model.h5",
+    "kfold_models\\fold_3_best_model.h5",
+    "kfold_models\\fold_4_best_model.h5",
+    "kfold_models\\fold_5_best_model.h5"
+  ]
+}

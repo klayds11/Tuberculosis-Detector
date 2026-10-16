@@ -1,0 +1,2 @@
+﻿filename,diagnosis,confidence,confidence_percent,normal_prob,tb_prob,recommendation,color,risk_level,timestamp
+sample_test_normal.jpg,NORMAL,0.8705624490976334,87.06%,0.8705624490976334,0.12943755090236664,Tidak terdeteksi tanda-tanda Tuberculosis. Tetap jaga kesehatan paru-paru dengan pola hidup sehat.,🟢,RENDAH,2026-10-16 21:18:21
